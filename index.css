@@ -1,0 +1,64 @@
+@import url (https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap);
+.header {
+    background-image: url(81A41B21-56AC-4CEB-A7C1-3FEA7B439383.JPG);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    opacity: .75;
+    display: flex;
+    line-height: 150px;
+    color: white;
+    padding: 5px;
+    font-family:"Helvetica";    
+}
+.header-link {
+    background-color: rgb(255, 255, 255);
+    padding: 6px;
+    border-radius: 10%;
+    opacity: .6;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(253, 255, 241);
+}
+h1 {
+    font-size: 80px;
+    font-family: "Roboto";
+}
+
+h2 {
+    font-size: 60px;
+}
+h3 {
+    font-size: 20px;
+}
+.chloe {
+    padding: 10px;
+}
+
+.nav {
+    display: flex;
+    line-height: 50px;
+    text-align: right;
+}
+
+.content-box {
+    background-color: rgb(251, 214, 172);
+    padding: 15px;
+    margin: 20px;
+    border-radius: 10%;
+    color: rgb(90, 88, 86)
+}
+
+.Home-page-content {
+    display: flex;
+    border: 10px solid rgb(90, 88, 86)
+}
+
+img {
+    width: 50%;
+    height: auto;
+    padding: 20px;
+    border-radius: 10%;
+}
